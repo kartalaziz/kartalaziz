@@ -74,6 +74,8 @@
 
 [CTF Rehberi](https://www.turkhackteam.org/konular/ctf-rehberi.2014707/)
 
+[A-Z Linux Komutları](https://medium.com/@akartaa/a-z-linux-komutları-b4de0a3df638)
+
 ### Network Notlarım
 
 [Network Notları](https://www.turkhackteam.org/konular/network-notlari.2018618/)

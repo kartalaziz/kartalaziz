@@ -76,6 +76,8 @@
 
 [A-Z Linux Komutları](https://medium.com/@akartaa/a-z-linux-komutları-b4de0a3df638)
 
+[Linux Terminal Komutları ve Linux Dersleri](https://medium.com/@akartaa/linux-terminal-komutları-ve-linux-dersleri-52b9e40e144f)
+
 ### Network Notlarım
 
 [Network Notları](https://www.turkhackteam.org/konular/network-notlari.2018618/)

@@ -118,6 +118,8 @@
 
 [HTML Öğrenelim - 11](https://www.turkhackteam.org/konular/html-ogrenelim-11.2021048/)
 
+[HTML Öğrenelim - 12](https://www.turkhackteam.org/konular/html-ogrenelim-12.2021715/)
+
 ### Other Languages
 
 [C/C++ Temelleri - Bilgisayar Programlama Ders Notları](https://www.turkhackteam.org/konular/c-c-temelleri-bilgisayar-programlama-ders-notlari.2019467/)

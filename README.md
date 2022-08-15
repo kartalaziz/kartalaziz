@@ -92,6 +92,8 @@
 
 [Yazılım dünyasının gözde platformlarından GitHub nedir? Nasıl kullanılır ?](https://www.turkhackteam.org/konular/yazilim-dunyasinin-gozde-platformlarindan-github-nedir-nasil-kullanilir.2013432/)
 
+[Tutorial Hell nedir?](https://medium.com/@akartaa/tutorial-hell-nedir-6381c995867d)
+
 [Git ve Github](https://medium.com/@akartaa/git-ve-github-16aa7edd4576)
 
 ### HTML Öğrenelim Serisi - THT

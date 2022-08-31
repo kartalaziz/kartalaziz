@@ -17,7 +17,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@cooncoin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@cooncoin" height="30" width="40" /></a>
+<a href="https://twitter.com/@cooncoin3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@cooncoin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/azizkartal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azizkartal" height="30" width="40" /></a>
 <a href="https://medium.com/@akartaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akartaa" height="30" width="40" /></a>
 </p>

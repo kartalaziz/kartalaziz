@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">I'm a junior developer.</h3>
 
-- 🔭 I’m currently working on [BraiNFT](https://www.brainfts.io)
+- 🔭 I’m currently working on [BraiNFT](https://www.brainfts.io) and [RareCandy3D](rarecandy.xyz)
 
 - 🌱 I’m currently learning **Go, JavaScript, Python, Linux**
 

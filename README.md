@@ -39,9 +39,13 @@
 
 [Domain NFT nedir?](https://medium.com/@akartaa/domain-nft-nedir-nasıl-alınır-55ae319b2c84)
 
+[Top Web3 Newsletters](https://medium.com/@akartaa/top-web3-newstellers-852eacddd99)
+
 [Nick Szabo](https://medium.com/@akartaa/nick-szabo-4bc4008310e1)
 
 [Merkle Tree: Bitcoin’in Kökü](https://medium.com/@akartaa/merkle-tree-bitcoinin-kökü-dacd094968a3)
+
+[Why NFTs are useful? Explained in 5 sentences.](https://medium.com/@akartaa/why-nfts-are-useful-explained-in-5-sentences-28c2b536afe0)
 
 [Hacken](https://medium.com/@akartaa/hacken-703549158fca)
 

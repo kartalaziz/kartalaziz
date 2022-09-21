@@ -33,6 +33,8 @@
 
 ## Blockchain & Web3
 
+[Why Charities Are Turning to Web3 for a More Sustainable Future](https://medium.com/@akartaa/why-charities-are-turning-to-web3-for-a-more-sustainable-future-75d3b41dc325)
+
 [Yeni başlayanlar için Blockchain : Blockchain teknolojisi nedir?](https://medium.com/@akartaa/yeni-başlayanlar-için-blockchain-blockchain-teknolojisi-nedir-1f9e8ceec8f8)
 
 [Kripto Paraların Kısa Tarihi, Parayı Dijitalleştirmek](https://medium.com/@akartaa/kripto-paraların-kısa-tarihi-parayı-dijitalleştirmek-494b5419deba)

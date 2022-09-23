@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@akartaa](https://medium.com/@akartaa)
 
-- Basic Knowledge **C, Python, Cybersecurity, Blockchain**
+- Area of interest **Cybersecurity, Blockchain, NFT**
 
 - 📫 How to reach me **azizkartalbusiness@gmail.com**
 

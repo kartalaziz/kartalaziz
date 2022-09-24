@@ -93,8 +93,6 @@
 
 ## Programming
 
-[Yazılım dünyasının gözde platformlarından GitHub nedir? Nasıl kullanılır ?](https://www.turkhackteam.org/konular/yazilim-dunyasinin-gozde-platformlarindan-github-nedir-nasil-kullanilir.2013432/)
-
 [Tutorial Hell nedir?](https://medium.com/@akartaa/tutorial-hell-nedir-6381c995867d)
 
 [Git ve Github](https://medium.com/@akartaa/git-ve-github-16aa7edd4576)
@@ -135,7 +133,5 @@
 
 [Go programlama dilinde çıktı fonksiyonları](https://www.turkhackteam.org/konular/go-programlama-dilinde-cikti-fonksiyonlari.2020059/)
 
-## General - Offtopic
 
-[Üniversite ve bölüm seçimi yaparken nelere dikkat etmeliyiz? Hangi kriterleri değerlendirmeliyiz?](https://www.turkhackteam.org/konular/universite-ve-bolum-secimi-yaparken-nelere-dikkat-etmeliyiz-hangi-kriterleri-degerlendirmeliyiz.2020133/)
 

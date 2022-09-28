@@ -35,6 +35,8 @@
 
 [Yeni başlayanlar için Blockchain : Blockchain teknolojisi nedir?](https://medium.com/@akartaa/yeni-başlayanlar-için-blockchain-blockchain-teknolojisi-nedir-1f9e8ceec8f8)
 
+[AI & Big Data Tokens Explained](https://medium.com/@akartaa/ai-big-data-tokens-explained-c03903be2944)
+
 [Kripto Paraların Kısa Tarihi, Parayı Dijitalleştirmek](https://medium.com/@akartaa/kripto-paraların-kısa-tarihi-parayı-dijitalleştirmek-494b5419deba)
 
 [Domain NFT nedir?](https://medium.com/@akartaa/domain-nft-nedir-nasıl-alınır-55ae319b2c84)

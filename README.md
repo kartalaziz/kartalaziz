@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">I'm a junior developer.</h3>
 
-- 🔭 I’m currently working on [BraiNFT](https://www.brainfts.io) and [RareCandy3D](rarecandy.xyz)
+- 🔭 I’m currently working on [RareCandy3D](rarecandy.xyz)
 
 - 🌱 I’m currently learning **Go, JavaScript, Python, Linux**
-
-- 👯 I’m founder of [Gazi Blockchain](https://gaziblockchain.com)
 
 - 📝 I regularly write articles on [https://medium.com/@akartaa](https://medium.com/@akartaa)
 

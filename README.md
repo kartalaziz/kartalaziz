@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@akartaa](https://medium.com/@akartaa)
 
-- Area of interest ** Web3, Blockchain, Cybersecurity, Marketing**
+- Area of interest **Web3, Blockchain, Cybersecurity, Marketing**
 
 - 📫 How to reach me **azizkartalbusiness@gmail.com**
 

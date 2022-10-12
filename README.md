@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">I'm a junior developer.</h3>
 
-- 🔭 I’m currently working on [RareCandy3D](rarecandy.xyz)
+- 🔭 I’m currently working on [RareCandy3D](rarecandy.xyz) and [BraiNFT](brainfts.io)
 
-- 🌱 I’m currently learning **Go, JavaScript, Python, Linux**
+- 🌱 I’m currently learning **Go, Python, Linux**
 
 - 📝 I regularly write articles on [https://medium.com/@akartaa](https://medium.com/@akartaa)
 
-- Area of interest **Cybersecurity, Blockchain, NFT**
+- Area of interest ** Web3, Blockchain, Cybersecurity, Marketing**
 
 - 📫 How to reach me **azizkartalbusiness@gmail.com**
 
@@ -25,7 +25,7 @@
 
 
 
-# My previous contents
+# My Articles
 
 ## Blockchain & Web3
 

@@ -28,6 +28,11 @@
 # My Articles
 
 ## Blockchain & Web3
+[Blockchain Güvenliği: %51 Saldırısı](https://medium.com/odtü-blockchain-topluluğu/blockchain-güvenliği-51-saldırısı-7dafb35a7019)
+  
+[What is Storyteller NFT](https://medium.com/sedesca-labs/what-is-storyteller-nft-33d1c89bb375)
+  
+[Why we will rent an NFT? What’s the point?](https://medium.com/sedesca-labs/why-we-will-rent-an-nft-whats-the-point-bbff7ad4643d)
 
 [Why Charities Are Turning to Web3 for a More Sustainable Future](https://medium.com/@akartaa/why-charities-are-turning-to-web3-for-a-more-sustainable-future-75d3b41dc325)
 

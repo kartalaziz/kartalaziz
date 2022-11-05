@@ -28,6 +28,9 @@
 # My Articles
 
 ## Blockchain & Web3
+ 
+[Blockchain Güvenliği: Yeniden Giriş Saldırısı (Re-entrancy Attack)](https://medium.com/odtü-blockchain-topluluğu/blockchain-güvenliği-yeniden-giriş-saldırısı-re-entrancy-attack-4bb23cddeb79)
+  
 [Blockchain Güvenliği: %51 Saldırısı](https://medium.com/odtü-blockchain-topluluğu/blockchain-güvenliği-51-saldırısı-7dafb35a7019)
   
 [What is Storyteller NFT](https://medium.com/sedesca-labs/what-is-storyteller-nft-33d1c89bb375)

@@ -155,15 +155,6 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 
 [Linux Terminal Komutları ve Linux Dersleri](https://medium.com/@akartaa/linux-terminal-komutları-ve-linux-dersleri-52b9e40e144f)
 
-### Network Notlarım
-
-[Network Notları](https://www.turkhackteam.org/konular/network-notlari.2018618/)
-
-[Network Notları 2](https://www.turkhackteam.org/konular/network-notlari-2.2019018/)
-
-[Network Notları 3](https://www.turkhackteam.org/konular/network-notlari-3.2019128/)
-
-[Network Notları 4](https://www.turkhackteam.org/konular/network-notlari-4.2019773/#post-9627653)
 
 ## Programming
 
@@ -171,7 +162,9 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 
 [Git ve Github](https://medium.com/@akartaa/git-ve-github-16aa7edd4576)
 
-### HTML Öğrenelim Serisi - THT
+#### HTML Öğrenelim Serisi - THT
+THT Forumu için oluşturduğum eğitici HTML Öğrenelim serisi. 
+Kaynak: W3Schools 
 
 [HTML Öğrenelim - 1](https://www.turkhackteam.org/konular/html-ogrenelim-1.2019247/)
 
@@ -199,7 +192,7 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 
 [HTML Öğrenelim - 13](https://www.turkhackteam.org/konular/html-ogrenelim-13.2021868/)
 
-### Other Languages
+#### Other Languages - THT
 
 [C/C++ Temelleri - Bilgisayar Programlama Ders Notları](https://www.turkhackteam.org/konular/c-c-temelleri-bilgisayar-programlama-ders-notlari.2019467/)
 
@@ -207,5 +200,14 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 
 [Go programlama dilinde çıktı fonksiyonları](https://www.turkhackteam.org/konular/go-programlama-dilinde-cikti-fonksiyonlari.2020059/)
 
+#### Network Notlarım - THT
+THT Forumu için aldığım network notları.
 
+[Network Notları](https://www.turkhackteam.org/konular/network-notlari.2018618/)
+
+[Network Notları 2](https://www.turkhackteam.org/konular/network-notlari-2.2019018/)
+
+[Network Notları 3](https://www.turkhackteam.org/konular/network-notlari-3.2019128/)
+
+[Network Notları 4](https://www.turkhackteam.org/konular/network-notlari-4.2019773/#post-9627653)
 

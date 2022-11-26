@@ -141,13 +141,13 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 
 ## Cybersecurity
 
-[Virüsler(Medium)](https://medium.com/@akartaa/virüs-nedir-d2e8ff49e056) - [Virüsler(THT)](https://www.turkhackteam.org/konular/virus-nedir-virus-turleri-nelerdir-virusumsu-nedir-viruslerin-etkileri-belirtileri-nelerdir-virus-yazmak-zor-mu-detayli-bilgilendirme.2009450/)
+[Virüsler(Medium)](https://medium.com/dehnis-notes/vir%C3%BCsler-116106844d5b) - [Virüsler(THT)](https://www.turkhackteam.org/konular/virus-nedir-virus-turleri-nelerdir-virusumsu-nedir-viruslerin-etkileri-belirtileri-nelerdir-virus-yazmak-zor-mu-detayli-bilgilendirme.2009450/)
 
 [Anti-Executable nedir ? Nasıl kurulur ?](https://www.turkhackteam.org/konular/anti-executable-nedir-nasil-kurulur.2012939/)
 
 [Dijital ayak izi nedir? Dijital ayak izimizi hackerlardan nasıl koruruz?](https://www.turkhackteam.org/konular/dijital-ayak-izi-nedir-dijital-ayak-izimizi-hackerlardan-nasil-koruruz.2012443/)
 
-[Siber Güvenlik Sitenizin SEO Sıralamasını Nasıl Etkiliyor?](https://medium.com/@akartaa/siber-güvenlik-sitenizin-seo-sıralamasını-nasıl-etkiliyor-7785abb0ab50)
+[Siber Güvenlik Sitenizin SEO Sıralamasını Nasıl Etkiliyor?](https://medium.com/dehnis-notes/siber-g%C3%BCvenlik-sitenizin-seo-s%C4%B1ralamas%C4%B1n%C4%B1-nas%C4%B1l-etkiliyor-26084148931d)
 
 [CTF Rehberi](https://www.turkhackteam.org/konular/ctf-rehberi.2014707/)
 

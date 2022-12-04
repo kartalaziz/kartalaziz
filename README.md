@@ -161,6 +161,13 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 [Tutorial Hell nedir?](https://medium.com/@akartaa/tutorial-hell-nedir-6381c995867d)
 
 [Git ve Github](https://medium.com/@akartaa/git-ve-github-16aa7edd4576)
+  
+## Network Notları
+[Network Notları: Ağ Temelleri](https://medium.com/dehnis-notes/network-notları-ağ-temelleri-9c8a021d0154)
+  
+[Network Notları: Ağ Cihazları](https://medium.com/dehnis-notes/network-notları-ağ-cihazları-9b72661bd11b)
+  
+[Network Notları: Kablo ve Ortam Tipleri](https://medium.com/dehnis-notes/network-notları-kablo-ve-ortam-tipleri-27d12a944d1a)
 
 #### HTML Öğrenelim Serisi - THT
 THT Forumu için oluşturduğum eğitici HTML Öğrenelim serisi. 

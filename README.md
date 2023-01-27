@@ -117,6 +117,10 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 [Blockchain Güvenliği: Cryptojacking](https://medium.com/@akartaa/blockchain-güvenliği-cryptojacking-74143a95fa88)
 
 [Blockchain Güvenliği: Oltalama (Phishing)](https://medium.com/@akartaa/blockchain-güvenliği-oltalama-phishing-bc4655b19c93)
+
+[Blockchain Güvenliği: DDoS Saldırısı](https://medium.com/@akartaa/blockchain-g%C3%BCvenli%C4%9Fi-ddos-sald%C4%B1r%C4%B1s%C4%B1-d147020dbf4e)
+  
+[Blockchain Güvenliği: Front Running & Sandwich Attack](https://medium.com/@akartaa/blockchain-g%C3%BCvenli%C4%9Fi-front-running-sandwich-attack-279c1262e0cc)
   
 [Hacken](https://medium.com/@akartaa/hacken-703549158fca)
 
@@ -151,9 +155,9 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 
 [CTF Rehberi](https://www.turkhackteam.org/konular/ctf-rehberi.2014707/)
 
-[A-Z Linux Komutları](https://medium.com/@akartaa/a-z-linux-komutları-b4de0a3df638)
+[A-Z Linux Komutları](https://medium.com/dehnis-notes/a-z-linux-komutlar%C4%B1-39fabd93f8c2)
 
-[Linux Terminal Komutları ve Linux Dersleri](https://medium.com/@akartaa/linux-terminal-komutları-ve-linux-dersleri-52b9e40e144f)
+[Linux Terminal Komutları ve Linux Dersleri](https://medium.com/dehnis-notes/linux-terminal-komutlar%C4%B1-ve-linux-dersleri-a0090ac98ed6)
 
 
 ## Programming
@@ -168,6 +172,12 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 [Network Notları: Ağ Cihazları](https://medium.com/dehnis-notes/network-notları-ağ-cihazları-9b72661bd11b)
   
 [Network Notları: Kablo ve Ortam Tipleri](https://medium.com/dehnis-notes/network-notları-kablo-ve-ortam-tipleri-27d12a944d1a)
+  
+[Network Notları: Anahtarlama Temelleri](https://medium.com/dehnis-notes/network-notlar%C4%B1-anahtarlama-temelleri-3abb6755a1ad)
+  
+[Network Notları: IP Adresleme ve Yönlendirme](https://medium.com/dehnis-notes/network-notlar%C4%B1-ip-adresleme-ve-y%C3%B6nlendirme-dc3dfef4a0b5)
+  
+[Network Notları: Yönlendirme Temelleri](https://medium.com/dehnis-notes/network-notlar%C4%B1-y%C3%B6nlendirme-temelleri-a5e0454ee20d)
 
 #### HTML Öğrenelim Serisi - THT
 THT Forumu için oluşturduğum eğitici HTML Öğrenelim serisi. 

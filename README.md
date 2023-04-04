@@ -1,18 +1,7 @@
 ### <div align="center">Hi there👋, I'm Aziz. 
-I have been working in the blockchain/web3 industry since 2020. 
+I have been working in the blockchain/web3 industry since 2020.
 
-I worked on different projects/organizations as a social media manager, content writer, researcher and community moderator. 
-
-I'm currently concentrating on marketing, blockchain security and blockchain.👀</div>  
-  
-
-- 🔭 I’m currently working on [RareCandy3D](rarecandy.xyz)  
-  
-
-- 🌱 I’m currently learning Python and Js  
-  
-
-- 🤔Interests: Web3, Blockchain, Blockchain Security, Cybersecurity, Marketing  
+- 🤔Interests: Web3, Blockchain Security, Cybersecurity 
   
 
 - 🔗[Linktree](https://linktr.ee/azizkartal)  
@@ -52,7 +41,6 @@ I'm currently concentrating on marketing, blockchain security and blockchain.�
 ### Trying to learn/improve  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 

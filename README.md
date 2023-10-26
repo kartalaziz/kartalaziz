@@ -10,44 +10,6 @@ I have been working in the blockchain/web3 industry since 2020.
 <br/>  
 
 
-## <div align="center">My Skill Set  
-<div align="center"><table><tr><td valign="top" width="33%">
-
-
-
-### Good at   
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Have knowledge
-(Previously studied but not good right now)  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Trying to learn/improve  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -71,7 +33,27 @@ I have been working in the blockchain/web3 industry since 2020.
 
 
 # My Articles
-  
+
+## Cybersecurity
+
+[Virüsler(Medium)](https://medium.com/dehnis-notes/vir%C3%BCsler-116106844d5b) - [Virüsler(THT)](https://www.turkhackteam.org/konular/virus-nedir-virus-turleri-nelerdir-virusumsu-nedir-viruslerin-etkileri-belirtileri-nelerdir-virus-yazmak-zor-mu-detayli-bilgilendirme.2009450/)
+
+[Anti-Executable nedir ? Nasıl kurulur ?](https://www.turkhackteam.org/konular/anti-executable-nedir-nasil-kurulur.2012939/)
+
+[Dijital ayak izi nedir? Dijital ayak izimizi hackerlardan nasıl koruruz?](https://www.turkhackteam.org/konular/dijital-ayak-izi-nedir-dijital-ayak-izimizi-hackerlardan-nasil-koruruz.2012443/)
+
+[Siber Güvenlik Sitenizin SEO Sıralamasını Nasıl Etkiliyor?](https://medium.com/dehnis-notes/siber-g%C3%BCvenlik-sitenizin-seo-s%C4%B1ralamas%C4%B1n%C4%B1-nas%C4%B1l-etkiliyor-26084148931d)
+
+[CTF Rehberi](https://www.turkhackteam.org/konular/ctf-rehberi.2014707/)
+
+[A-Z Linux Komutları](https://medium.com/dehnis-notes/a-z-linux-komutlar%C4%B1-39fabd93f8c2)
+
+[Linux Terminal Komutları ve Linux Dersleri](https://medium.com/dehnis-notes/linux-terminal-komutlar%C4%B1-ve-linux-dersleri-a0090ac98ed6)
+
+[NCAT Genel Bakış](https://www.turkhackteam.org/konular/ncat-genel-bakis.2047634/)
+
+[John the Ripper](https://www.turkhackteam.org/konular/john-the-ripper.2047311/)
+
 ## Web3
 
 [Why Charities Are Turning to Web3 for a More Sustainable Future](https://medium.com/@akartaa/why-charities-are-turning-to-web3-for-a-more-sustainable-future-75d3b41dc325)
@@ -130,23 +112,6 @@ I have been working in the blockchain/web3 industry since 2020.
 [Ichimoku](https://medium.com/@akartaa/ichimoku-c39282514464)
 
 [MACD](https://medium.com/@akartaa/macd-c5f76c1899b1)
-
-## Cybersecurity
-
-[Virüsler(Medium)](https://medium.com/dehnis-notes/vir%C3%BCsler-116106844d5b) - [Virüsler(THT)](https://www.turkhackteam.org/konular/virus-nedir-virus-turleri-nelerdir-virusumsu-nedir-viruslerin-etkileri-belirtileri-nelerdir-virus-yazmak-zor-mu-detayli-bilgilendirme.2009450/)
-
-[Anti-Executable nedir ? Nasıl kurulur ?](https://www.turkhackteam.org/konular/anti-executable-nedir-nasil-kurulur.2012939/)
-
-[Dijital ayak izi nedir? Dijital ayak izimizi hackerlardan nasıl koruruz?](https://www.turkhackteam.org/konular/dijital-ayak-izi-nedir-dijital-ayak-izimizi-hackerlardan-nasil-koruruz.2012443/)
-
-[Siber Güvenlik Sitenizin SEO Sıralamasını Nasıl Etkiliyor?](https://medium.com/dehnis-notes/siber-g%C3%BCvenlik-sitenizin-seo-s%C4%B1ralamas%C4%B1n%C4%B1-nas%C4%B1l-etkiliyor-26084148931d)
-
-[CTF Rehberi](https://www.turkhackteam.org/konular/ctf-rehberi.2014707/)
-
-[A-Z Linux Komutları](https://medium.com/dehnis-notes/a-z-linux-komutlar%C4%B1-39fabd93f8c2)
-
-[Linux Terminal Komutları ve Linux Dersleri](https://medium.com/dehnis-notes/linux-terminal-komutlar%C4%B1-ve-linux-dersleri-a0090ac98ed6)
-
 
 ## Programming
 

@@ -1,5 +1,6 @@
 ### <div align="center">Hi there👋, I'm Aziz. 
-I have been working in the blockchain/web3 industry since 2020.
+I have been working in the blockchain/web3 industry since 2020. 
+Currently, I'm focused on enhancing my knowledge and skills in penetration testing.
 
 - 🤔Interests: Web3, Blockchain Security, Cybersecurity 
   
@@ -16,7 +17,7 @@ I have been working in the blockchain/web3 industry since 2020.
 <a href="https://github.com/kartalaziz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/cooncoin3" target="_blank">
+<a href="https://twitter.com/vancoondehni" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/azizkartal" target="_blank">
@@ -102,7 +103,6 @@ I have been working in the blockchain/web3 industry since 2020.
 
 [Domain NFT nedir?](https://medium.com/@akartaa/domain-nft-nedir-nasıl-alınır-55ae319b2c84)
 
-[Why NFTs are useful? Explained in 5 sentences.](https://medium.com/@akartaa/why-nfts-are-useful-explained-in-5-sentences-28c2b536afe0)
 
 ## Indicators
 [RSI (Göreceli Güç Endeksi) hakkında detaylı bilgi.](https://medium.com/@akartaa/rsi-göreceli-güç-endeksi-hakkında-detaylı-bilgi-ffc01ea41458)
